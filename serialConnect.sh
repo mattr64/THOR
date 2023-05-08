@@ -8,7 +8,7 @@ echo
 echo If serial continues to fail, reboot with sudo reboot 
 echo
 echo This is a testing system that is not for general use
-echo For any questions contact Matt on +447547730494
+echo For any questions contact Matt
 echo
 echo
 read -p "Press enter to continue"
